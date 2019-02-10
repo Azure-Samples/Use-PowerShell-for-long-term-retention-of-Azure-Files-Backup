@@ -26,7 +26,7 @@ Edit the Runbook and write script to choose which file shares to take a backup. 
 - Test the script using “Test Pane”
 - Publish the Runbook
 
-A sample script to backup all file shares in a subscription is provided in the repository
+A [sample script](UsePowerShellforLTRAzureFiles.ps1.txt) to backup all file shares in a subscription is provided in the repository
 
 ## Step5
 Schedule the Runbook. While scheduling the Runbook, you can pass on the parameters required for the PowerShell Script. The sample script takes the retention as an input. So, if you need to schedule a weekly snapshot and retain for 8 weeks, create a weekly schedule as mentioned below and specify the retention as 56 days (8 weeks). You can create monthly and yearly schedules (run every 12 months) in a similar manner. You can monitor the success/failure of these backups using the “Jobs” tab of Runbooks
