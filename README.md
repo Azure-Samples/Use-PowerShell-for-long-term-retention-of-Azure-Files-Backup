@@ -1,6 +1,6 @@
-# Project Name
+# Automate On-demand backup for Azure File Shares using PowerShell for Azure Backup
 
-Automate On-demand backup for Azure File Shares using [PowerShell for Azure Backup](https://docs.microsoft.com/en-us/azure/backup/backup-azure-afs-automation)
+Automate On-demand backup for Azure File Shares using [PowerShell for Azure Backup](https://docs.microsoft.com/azure/backup/backup-azure-afs-automation)
 
 ## Features
 
