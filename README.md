@@ -1,3 +1,13 @@
+---
+page_type: sample
+languages:
+- 
+products:
+- azure
+description: "Automate On-demand backup for Azure File Shares using PowerShell for Azure Backup"
+urlFragment: Use-PowerShell-for-long-term-retention-of-Azure-Files-Backup
+---
+
 # Automate On-demand backup for Azure File Shares using PowerShell for Azure Backup
 
 Automate On-demand backup for Azure File Shares using [PowerShell for Azure Backup](https://docs.microsoft.com/azure/backup/backup-azure-afs-automation)
