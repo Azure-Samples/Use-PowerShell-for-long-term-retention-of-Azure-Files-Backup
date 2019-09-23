@@ -1,7 +1,7 @@
 ---
 page_type: sample
 languages:
-- 
+- powershell
 products:
 - azure
 description: "Automate On-demand backup for Azure File Shares using PowerShell for Azure Backup"
