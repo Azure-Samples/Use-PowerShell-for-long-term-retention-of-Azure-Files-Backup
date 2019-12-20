@@ -23,9 +23,10 @@ Create an Automation resource with “Run As” account
 Import modules from Gallery in the Automation resource.
 
 Import the following modules from the Modules gallery in the order given below:
-1. AzureRM.Profile
-2. AzureRM.RecoveryServices
-3. AzureRM.RecoveryServices.Backup
+1. Az.Accounts
+2. Az.RecoveryServices
+
+**DO NOT RUN AzureRM and AZ modules within the same Azure Automation Account**
 
 ## Step3
 Create PowerShell Runbooks in the Automation Resource. You can create multiple Runbooks based on which set of File shares you want to protect.
