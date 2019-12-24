@@ -14,10 +14,10 @@ Automate On-demand backup for Azure File Shares using [PowerShell for Azure Back
 
 ## Features
 
-Create recovery points while backing up Azure Files with up to 10 years of retention
+Create recovery points while backing up Azure Files with up to 10 years of retention. 
 
 ## Step1
-Create an Automation resource with “Run As” account
+Create an [Automation resource](https://docs.microsoft.com/en-us/azure/automation/automation-quickstart-create-account) with “Run As” account
 
 ## Step2
 Import modules from Gallery in the Automation resource.
