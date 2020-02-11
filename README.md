@@ -27,7 +27,9 @@ Create an Automation resource with “Run As” account
 Import modules from Gallery in the Automation resource.
 
 Import the following modules from the Modules gallery in the order given below:
+
 1.Az.Accounts ( 1.7.1)
+
 2.Az.RecoveryServices(2.6.0)
 
 
